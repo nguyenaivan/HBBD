@@ -39,7 +39,7 @@
             height: 650,
         },
         footer: {
-            width: 800,
+            width: 600,
             height: 5,
             speed: 10,
         }
